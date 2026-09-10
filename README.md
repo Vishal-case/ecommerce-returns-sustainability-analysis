@@ -44,17 +44,7 @@ The analysis script is structured systematically into 15 critical segments reque
 
 ---
 
-## 📈 Key Insights & Findings (Teaser)
-*(Note: Replace the placeholders below with your actual data once queries are executed!)*
-
-* **The Baseline:** The business is currently operating at an overall return rate of **[Insert Rate]%**, representing a total pure logistics loss of **$[Insert Cost]**.
-* **The Root Causes:** The top 3 return reasons (**[Reason 1]**, **[Reason 2]**, and **[Reason 3]**) account for **[Insert %]%** of all returned inventory.
-* **The Eco Impact 🌱:** Returned orders on average generate **[Insert %]x** more packaging waste and carbon emissions than successfully completed cycles. 
-* **The Promotional Trap:** Heavy discounts exceeding 30% **[increased / stabilized]** overall returns, directly damaging net category profitability.
-
----
-
-## 🚀 How To Explore This Repository
+##  How To Explore This Repository
 1. Clone this repository locally.
 2. Load your data source into your standard SQL workbench environment.
 3. Open and run the `returns_analysis.sql` script to review the complete analytical breakdown.
